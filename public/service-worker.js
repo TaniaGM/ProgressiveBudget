@@ -6,8 +6,8 @@ var urlsToCache = [
     "/index.js",
     "/manifest.json",
     "/styles.css",
-    "/icons/icon-72x72.png",
-    "/icons/icon-96x96.png"
+    "/images/icons/icon-72x72.png",
+    "/images/icons/icon-96x96.png"
 ];
 self.addEventListener("install", function (event) {
     // Perform install steps
